@@ -1,10 +1,9 @@
 html {
   /*background: url(https://github.com/cindykdao/chinomi/blob/master/4k-wallpaper-android-wallpaper-astro-1146134.jpg) fixed;
   background-size: 100%;*/ //idk what happened here
-  
+  background: url(https://github.com/cindykdao/chinomi/blob/master/what-the-hex.png) fixed;
 }
 body {
-  color: white;
   font-family: 'Charmonman', cursive;
   text-align: center;
 }
