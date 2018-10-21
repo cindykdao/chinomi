@@ -4,6 +4,7 @@ html {
   background: url(https://github.com/cindykdao/chinomi/blob/master/what-the-hex.png) fixed;
 }
 body {
+  color: black;
   font-family: 'Charmonman', cursive;
   text-align: center;
 }
