@@ -2,11 +2,13 @@ html {
   background: url(https://raw.githubusercontent.com/cindykdao/chinomi/master/what-the-hex.png) fixed;
 }
 body {
-  background: rgba(150, 150, 150, 0.5);
+  background: rgba(100, 100, 100, 0.1);
+  width: 800px;
 }
 h1 {
   color: black;
   font-family: 'Charmonman', cursive;
+  padding: 40px 20px;
 }
 #intro {
   background: white;
@@ -15,5 +17,6 @@ h1 {
   font-family: Georgia;
   font-size: 11px;
   letter-spacing: 1px;
+  padding: 3px 10px 0;
   width: 500px;
 }
