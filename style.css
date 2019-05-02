@@ -5,9 +5,10 @@ html {
 }
 body {
   background: url(/chinomi/blob/master/what-the-hex.png) fixed;
-  color: black;
-  font-family: 'Charmonman', cursive;
-  text-align: center;
+  color: black; 
+  font-family: Arial; 
+  letter-spacing: 1px;
 }
 h1 {
+  font-family: 'Charmonman', cursive;
 }
