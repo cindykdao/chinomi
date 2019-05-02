@@ -1,16 +1,15 @@
 html {
-  background: url(https://github.com/cindykdao/chinomi/blob/master/4k-wallpaper-android-wallpaper-astro-1146134.jpg) fixed;
-  background-size: 100%;
-  /*background: url(/chinomi/blob/master/what-the-hex.png) fixed;*/
+  background: url(https://raw.githubusercontent.com/cindykdao/chinomi/master/what-the-hex.png) fixed;
 }
 body {
-  background: url(/chinomi/blob/master/what-the-hex.png) fixed;
+  background: rgba(150, 150, 150, 0.5);
 }
 h1 {
   color: black;
   font-family: 'Charmonman', cursive;
 }
 #intro {
+  background: white;
   border-bottom: 1px solid black;
   color: gray;
   font-family: Georgia;
