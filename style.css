@@ -5,11 +5,16 @@ html {
 }
 body {
   background: url(/chinomi/blob/master/what-the-hex.png) fixed;
-  color: black; 
-  font-family: Arial; 
-  font-size: 10px; 
-  letter-spacing: 1px;
 }
 h1 {
+  color: black;
   font-family: 'Charmonman', cursive;
+}
+#intro {
+  border-bottom: 1px solid black;
+  color: gray;
+  font-family: Georgia;
+  font-size: 11px;
+  letter-spacing: 1px;
+  width: 500px;
 }
